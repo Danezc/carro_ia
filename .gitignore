@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# VS Code
+.vscode/
+
+# Pygame
+*.bmp
+*.png
+*.jpg
+# (Usually we don't ignore assets unless generated, but safe for now)
+
+# OS
+.DS_Store
+Thumbs.db
